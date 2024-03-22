@@ -1,0 +1,17 @@
+.carousel-item img{
+    height: 450px;
+}
+
+/* .carousel{
+    width: 75%;
+    margin: auto;
+} */
+
+.card img{
+    height: 200px;
+}
+
+textarea{
+    height: 120px !important;
+    resize: none;
+}
